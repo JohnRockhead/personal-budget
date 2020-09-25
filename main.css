@@ -47,7 +47,7 @@ div.hero {
     padding-top: 40px;
 }
 
-img {
+img.img-center {
     object-fit: contain;
     width: 100%;
     height: 72%;
